@@ -1,0 +1,64 @@
+Our online retail company wants to increase sales, improve customer retention, and optimize marketing strategies by analyzing historical customer transaction data. The company has collected detailed information about customer demographics, product purchases, order details, and payment behavior.
+
+The dataset includes the following columns: Customer ID, Age, Gender, Item Purchased, Category, Purchase Amount, Location, Size, Color, Season, Review Rating, Subscription Status, Shipping Type, Discount Applied, Previous Purchase, and Payment Method.
+
+The business problem is to extract meaningful insights from this dataset to answer questions such as:
+
+Who are the high-value customers, and what are their demographic characteristics (age, gender, location)?
+Which products and categories generate the most revenue, and what are the popular size/color preferences?
+How do seasonality and discounts impact sales performance?
+How do subscription status, payment method, and shipping type influence purchase behavior and revenue?
+What is the relationship between customer satisfaction (review ratings) and repeat purchases?
+
+y analyzing this data using Python (Pandas, NumPy) and visualizing insights (Matplotlib, Seaborn), the company aims to make data-driven decisions to:
+
+Improve targeted marketing campaigns
+Optimize discount strategies
+Enhance product and inventory planning
+Increase customer retention and repeat purchases
+Boost overall revenue and profitability
+
+
+vse khud se recommendation bus Inka bhi help le sakte h jo upper bole h
+
+
+
+
+
+
+1 - Understanding business problem & keywords  - 
+
+Customer Retention - To keep company existing customer
+influence purchase behavior - like which payment is most preferred by customer which not and same for kind of others
+
+
+
+2 - Key metrics - 
+
+High value customers - 
+
+   Revenue per customer , age , gender
+   or location vs customer vs group by Krke 
+  Repeat purchased count per customer
+
+product /category - 
+   Revenue by Category , item purchased , color , size
+color preferences - 
+count le sakte h
+
+
+seasonality impact - 
+   season vs Total purchase amount
+
+Discount impact - 
+   discount vs Total purchase amount
+
+subscription status, payment method, and shipping type
+   subscription status, payment method, and shipping type vs Revenue
+
+What is the relationship between customer satisfaction (review ratings) and repeat purchases?
+    visualize the relationship
+
+
+
+
