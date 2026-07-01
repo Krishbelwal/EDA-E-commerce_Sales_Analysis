@@ -41,7 +41,7 @@ The project uses the following dataset:
 - Subscription, Payment & Shipping: Subscription status and customer preferences for payment and shipping influence purchasing behavior.
 - Customer Satisfaction & Repeat Purchases: Customers with higher review ratings are more likely to make repeat purchases.
 
- ## 6 - Recommendations - 
+ ## 6. Recommendations - 
  
 - Focus personalised marketing and loyalty programs on these customer segments.
 - Maintain adequate inventory and promote best-selling products to maximise revenue.
