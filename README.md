@@ -1,7 +1,7 @@
 # 📊 EDA – E-Commerce_sales_Analysis
 
 ## 1. Project Overview
-
+This project analyses historical customer data from an online retail company to uncover actionable business insights. The objective is to identify high-value customers, understand purchasing patterns, and evaluate the impact of demographics, product preferences, seasonality, payment methods, and shipping options on sales. The insights generated will help optimize marketing strategies, improve customer retention, and drive overall business growth through data-driven decision-making.
 
 
 ## 2. Dataset
@@ -33,18 +33,19 @@ The project uses the following dataset:
 - **Insight Generation**
 
 
-## 5. Key Insights
+## 5. Key Insights & Recommendations - 
 
-- Platform usage varies across gender and academic levels.
-- Younger students show relatively higher daily screen time.
-- Higher screen time is linked with increased addiction scores.
-- Students with longer sleep duration tend to report better mental health scores.
-- Certain platforms demonstrate higher average addiction levels.
+-High-Value Customers: Customers aged 25–55, male customers, and customers from high-performing locations contribute the highest revenue.
+Recommendation: Focus personalised marketing and loyalty programs on these customer segments.
 
+Products & Categories: Medium-sized products and popular colours generate the highest sales.
+Recommendation: Maintain adequate inventory and promote best-selling products to maximise revenue.
 
-## 6. Recommendations
+Seasonality : Sales are highest during the Fall season.
+Recommendation: Plan seasonal campaigns for Fall and use targeted discounts instead of offering them to all customers.
 
-- Promote digital well-being awareness programs in schools and colleges.
-- Encourage balanced screen time and healthy sleep habits.
-- Identify high-risk student groups for early intervention.
-- Conduct further statistical analysis (correlation/regression) to validate findings.
+Subscription, Payment & Shipping: Subscription status and customer preferences for payment and shipping influence purchasing behavior.
+Recommendation: Encourage subscriptions with exclusive benefits and optimise preferred payment and shipping options.
+
+Customer Satisfaction & Repeat Purchases: Customers with higher review ratings are more likely to make repeat purchases.
+Recommendation: Improve customer experience and reward loyal customers to increase retention and lifetime value.
