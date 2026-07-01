@@ -35,7 +35,7 @@ The project uses the following dataset:
 
 ## 5. Key Insights & Recommendations - 
 
--High-Value Customers: Customers aged 25–55, male customers, and customers from high-performing locations contribute the highest revenue.
+High-Value Customers: Customers aged 25–55, male customers, and customers from high-performing locations contribute the highest revenue.
 Recommendation: Focus personalised marketing and loyalty programs on these customer segments.
 
 Products & Categories: Medium-sized products and popular colours generate the highest sales.
