@@ -35,17 +35,17 @@ The project uses the following dataset:
 
 ## 5. Key Insights & Recommendations - 
 
-High-Value Customers: Customers aged 25–55, male customers, and customers from high-performing locations contribute the highest revenue.
-Recommendation: Focus personalised marketing and loyalty programs on these customer segments.
+- High-Value Customers: Customers aged 25–55, male customers, and customers from high-performing locations contribute the highest revenue.
+- Recommendation: Focus personalised marketing and loyalty programs on these customer segments.
 
-Products & Categories: Medium-sized products and popular colours generate the highest sales.
-Recommendation: Maintain adequate inventory and promote best-selling products to maximise revenue.
+- Products & Categories: Medium-sized products and popular colours generate the highest sales.
+- Recommendation: Maintain adequate inventory and promote best-selling products to maximise revenue.
 
-Seasonality : Sales are highest during the Fall season.
-Recommendation: Plan seasonal campaigns for Fall and use targeted discounts instead of offering them to all customers.
+- Seasonality : Sales are highest during the Fall season.
+- Recommendation: Plan seasonal campaigns for Fall and use targeted discounts instead of offering them to all customers.
 
-Subscription, Payment & Shipping: Subscription status and customer preferences for payment and shipping influence purchasing behavior.
-Recommendation: Encourage subscriptions with exclusive benefits and optimise preferred payment and shipping options.
+- Subscription, Payment & Shipping: Subscription status and customer preferences for payment and shipping influence purchasing behavior.
+- Recommendation: Encourage subscriptions with exclusive benefits and optimise preferred payment and shipping options.
 
-Customer Satisfaction & Repeat Purchases: Customers with higher review ratings are more likely to make repeat purchases.
-Recommendation: Improve customer experience and reward loyal customers to increase retention and lifetime value.
+- Customer Satisfaction & Repeat Purchases: Customers with higher review ratings are more likely to make repeat purchases.
+- Recommendation: Improve customer experience and reward loyal customers to increase retention and lifetime value.
